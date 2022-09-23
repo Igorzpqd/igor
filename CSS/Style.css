@@ -1,0 +1,18 @@
+.meu { 
+    border: 30px solid yellow;
+    margin-top: 150px; text-align:center; color: red;background-color: green;
+ 
+}
+.pote {border:40px solid blue;color: beige  ; display: flex; align-items: flex-end;justify-content: space-between;
+justify-content:space-around;
+padding: 2px;
+letter-spacing: 4px;
+}
+.pote:hover{
+background-color: blueviolet;
+}
+
+.meu:hover{
+    color: black;
+}
+
